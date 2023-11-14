@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Хуй с маслом"),console.log(14)})();
